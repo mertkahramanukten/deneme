@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Otomasyon">
+    <CLASSES>
+      <root url="file://D:/Otomasyon" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://D:/Otomasyon/selenium/commons-io-2.6/docs" />
+      <root url="file://D:/Otomasyon/selenium/eklenecek jarlar ve chrome driver/commons-io-2.6/docs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://D:/Otomasyon/UFT 12.02/Unified Functional Testing/MSI/HP/Unified Functional Testing/Addins/ServiceTest/JavaCall/Java Interface/src" />
+    </SOURCES>
+  </library>
+</component>

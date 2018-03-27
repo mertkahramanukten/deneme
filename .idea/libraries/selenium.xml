@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="selenium">
+    <CLASSES>
+      <root url="file://D:/Otomasyon/selenium" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://D:/Otomasyon/selenium/commons-io-2.6/docs" />
+      <root url="file://D:/Otomasyon/selenium/eklenecek jarlar ve chrome driver/commons-io-2.6/docs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://D:/Otomasyon/selenium" />
+    </SOURCES>
+    <jarDirectory url="file://D:/Otomasyon/selenium" recursive="false" />
+    <jarDirectory url="file://D:/Otomasyon/selenium" recursive="false" type="SOURCES" />
+  </library>
+</component>
